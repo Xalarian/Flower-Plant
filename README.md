@@ -1,2 +1,2 @@
-Watering the plants
+# Watering the plants
 Water your selection of plants every hour!!
