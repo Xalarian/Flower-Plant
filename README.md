@@ -1,2 +1,2 @@
-# Flower-Plant
-Water your selection of plants
+Watering the plants
+Water your selection of plants every hour!!
